@@ -6,7 +6,7 @@ All my reference learning resources and references compiled at one place
 https://learnpythonthehardway.org/python3/appendixa.html  
 https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
-###Linux terminal permission grant using chmod
+#### Linux terminal permission grant using chmod
 Permission numbers are:
 0 = ---
 1 = --x
